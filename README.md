@@ -16,5 +16,5 @@ I initialized the repository, created the required files, used Codex to generate
 4. README update  
 
 ## Video
-
+https://youtu.be/dS8P4PlveOE
 
